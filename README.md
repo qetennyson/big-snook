@@ -1,2 +1,2 @@
 # big-snook
-Contains 411 work
+Contains the CIS 411 work of Quincy Tennyson, and probably some other nice things.
